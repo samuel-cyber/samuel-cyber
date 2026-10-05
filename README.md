@@ -54,7 +54,7 @@ Hustle OS turns natural-language WhatsApp transactions into structured financial
 
 ---
 
-### 🌊 [Riparia](https://github.com/samuel-cyber/riparia-api)
+### 🌊 [Riparia](https://github.com/samuel-cyber/StreamCheck)
 
 **AI-supported validation middleware for citizen freshwater ecosystem observations.**
 
